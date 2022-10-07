@@ -14,6 +14,7 @@
         android:layout_marginTop="41dp"
         android:text="Inserir item a comprar:"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
